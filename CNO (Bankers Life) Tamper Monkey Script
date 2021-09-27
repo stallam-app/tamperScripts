@@ -28,7 +28,7 @@ var crmAppName = companyName+" - Marketing"; // optional - this is the CRM/FSC a
 var nav1 = "Medicare Supplemental"; //default: Banking
 var nav2 = "Life"; //default: Credit Cards
 var nav3 = "Long-term Care"; //default: Insurance
-var nav4 = "Supplimental Health"; //default: Investing
+var nav4 = "Supplemental Health"; //default: Investing
 var nav5 = "Annuities"; //default: Loans
 var nav6 = "Service"; //default: News
 
@@ -36,7 +36,7 @@ var nav6 = "Service"; //default: News
  * Website: DROP-DOWN MENU OPTION: Drop down menu item options under primary navigation option for "Banking".
  ***************************************************************/
 var subNav1 ="Medicare Coverage with Bankers Life"; //default: Banking Overview
-var subNav2 ="Medicare Supplimental Information"; //default: Standard Checking
+var subNav2 ="Medicare Supplemental Information"; //default: Standard Checking
 var subNav3 ="What to Know"; //default: Standard Savings
 var subNav4 ="Resources"; //default: Standard Checking + Savings
 
@@ -53,7 +53,7 @@ var subNav4 ="Resources"; //default: Standard Checking + Savings
 
      /***** PERSONALIZED *****/
      var homepageHeroBannerImagePersonalized = "https://image.s4.sfmc-content.com/lib/fe3c11727664057d741271/m/1/147b4389-dcb7-44ba-bc13-9335952aa189.jpg"; //optional: Leave it blank if you don't want to update this image.
-     var homepageHeroBannerTitleLine1Personalized = "Supplimental Plans That"; //default: Life, it's one less
+     var homepageHeroBannerTitleLine1Personalized = "Supplemental Plans That"; //default: Life, it's one less
      var homepageHeroBannerTitleLine2Personalized = "Pay What Medicare Doesn't."; //default: thing to worry about.
      var homepageHeroBannerSubTitleLine1Personalized = "Plans that help pay some"; //default: Open a free account with
      var homepageHeroBannerSubTitleLine2Personalized = "of your out-of-pocket costs."; //default: Cumulus today!
@@ -75,8 +75,8 @@ var homepageProductCategory2Title = "Annuities"; //default: Savings
 var homepageProductCategory2Detail = "Grow you retirement savings with Bankers Life.";
 var homepageProductCategory3Title = "Long-Term Care"; //default: Credit Cards
 var homepageProductCategory3Detail = "Learn how long-term care insurance can help cover your assisted care expenses.";
-var homepageProductCategory4Title = "Supplimental Health"; //default: Borrowing
-var homepageProductCategory4Detail = "Protect your famly with supplimental health insurance.";
+var homepageProductCategory4Title = "Supplemental Health"; //default: Borrowing
+var homepageProductCategory4Detail = "Protect your famly with supplemental health insurance.";
 var homepageProductCategory5Title = "More"; //default: Investing
 var homepageProductCategory5Detail = "Discover more products and services from Bankers Life.";
 
@@ -86,17 +86,17 @@ var homepageProductCategory5Detail = "Discover more products and services from B
 var homepageRecommendationsHeader = "Need more information?";
 
 var homepageRecommendations1Image = "https://image.s4.sfmc-content.com/lib/fe3c11727664057d741271/m/1/4a5780b0-54cc-4219-a913-43c82d30bfba.png"; //optional: Leave it blank if you don't want to update this image.
-var homepageRecommendations1Title = "What Medicare Suppliment Insurance?";
-var homepageRecommendations1Detail = "Medicare Suppliment insurance is sold by private companies. Sometimes called Medigap, it can help you pay for out-of-pocket heath care expenses..";
+var homepageRecommendations1Title = "What Medicare Supplemental Insurance?";
+var homepageRecommendations1Detail = "Medicare Supplemental insurance is sold by private companies. Sometimes called Medigap, it can help you pay for out-of-pocket heath care expenses..";
 var homepageRecommendations1CTALabel = "Watch";
 
 var homepageRecommendations2Image = "https://image.s4.sfmc-content.com/lib/fe3c11727664057d741271/m/1/990eee3e-f6f2-4052-8e93-81b101b527a7.jpg"; //optional: Leave it blank if you don't want to update this image.
 var homepageRecommendations2Title = "Compare Plan Features";
-var homepageRecommendations2Detail = "To help you pay for out-of-pocket costs that Medicare may not cover, we offer Supplimental insurance plans A, B, C, D, F, F with high de.";
+var homepageRecommendations2Detail = "To help you pay for out-of-pocket costs that Medicare may not cover, we offer Supplemental insurance plans A, B, C, D, F, F with high de.";
 var homepageRecommendations2CTALabel = "Learn More";
 
 var homepageRecommendations3Image = "https://image.s4.sfmc-content.com/lib/fe3c11727664057d741271/m/1/415d65e1-3016-4f8a-af8d-dda88a9f9c1c.jpg"; //optional: Leave it blank if you don't want to update this image.
-var homepageRecommendations3Title = "Benefits of Medicare Suppliment Insurance";
+var homepageRecommendations3Title = "Benefits of Medicare Supplemental Insurance";
 var homepageRecommendations3Detail = "Allows you to keep your doctor and visit any hospital - no networks, no referrals needed.";
 var homepageRecommendations3CTALabel = "Learn More";
 
@@ -110,7 +110,7 @@ var homepageRecommendations4CTALabel = "Find";
  * Website: PRODUCT PAGE VIEW (FORMERLY BANKING > STANDARD CHECKING) - FIRST PRODUCT PAGE UNDER FIRST TOP NAV ITEM.
  ***************************************************************/
 var productPageMainImage = "https://image.s4.sfmc-content.com/lib/fe3c11727664057d741271/m/1/6c19834d-5bf5-4f96-8bd1-742f82c7af3b.jpg"; //optional: Leave it blank if you don't want to update this image.
-var productPageIntroPara = "You deserve a Medicare Supplimental plan that fits your health care needs and your budget. Finding that plan should be easy - and with Bankers Life, it is! <br><br>All you have to do is request a quote online."; //default: Make your financial life simpler.
+var productPageIntroPara = "You deserve a Medicare Supplemental plan that fits your health care needs and your budget. Finding that plan should be easy - and with Bankers Life, it is! <br><br>All you have to do is request a quote online."; //default: Make your financial life simpler.
 var productPageCTALabel = "Request a Quote"; //default: Open an Account
 var productPageFeatureBullet1 = "Helps lower your out-of-pocket costs."; //default: Free transactions at over 7,200 ATMS
 var productPageFeatureBullet2 = "Offers coverage that travels with you."; //default: Unlimited check-writing
@@ -163,7 +163,7 @@ var personaOrders = "4";
      var bottomLeftLine1 = "Life";
      var bottomLeftLine2 = "Long-term Care";
      var bottomLeftLine3 = "Annuities";
-     var bottomLeftLine4 = "Medicare Supplimental";
+     var bottomLeftLine4 = "Medicare Supplemental";
 
      /***** TOP LEFT  *****/
      var topLeftLabel = "CATEGORY";
